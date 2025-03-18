@@ -79,18 +79,3 @@ This project is licensed under the **MIT License**.
 **[Pranav Singla]**  
 📧 [pranavsingla1407@gmail.com]  
 ```
-
----
-
-### **💡 Notes**
-- **Replace `your-repository-name`** with your actual repository name.  
-- **Replace `[Your Name]`, `[Your Email]`, and `[Your Website]`** with your details.  
-- The **images will display properly** when hosted on GitHub.  
-
----
-
-### **🚀 Why This README?**
-- ✅ **Well-structured & easy to read**  
-- ✅ **Includes installation, running instructions, and error handling**  
-- ✅ **Uses your provided image URLs**  
-- ✅ **Encourages contributions & troubleshooting**  
