@@ -29,10 +29,10 @@ pip install streamlit pandas pdfplumber openpyxl
 
 ## 📂 How to Run  
 
-1️⃣ **Clone the repository (if applicable)**  
+1️⃣ **Clone the repository **  
 ```sh
-git clone https://github.com/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/pdftoxlsx.git
+cd your-pdftoxlsx
 ```
 
 2️⃣ **Run the application**  
@@ -77,5 +77,6 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author  
 **[Pranav Singla]**  
+```
 📧 [pranavsingla1407@gmail.com]  
 ```
